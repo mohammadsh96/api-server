@@ -6,6 +6,6 @@
 |---------------------|----------|
 |[github actions](https://github.com/mohammadsh96/api-server/actions)|----------------|
 |---------------------|--------------------|
-|[heroku app  for clothes rout](https://api-server-mnsh.herokuapp.com/clothes)|--------------------|
+|[heroku app  for clothes route](https://api-server-mnsh.herokuapp.com/clothes)|--------------------|
 |-------------|-------------|
-|[heroku app  for food rout](https://api-server-mnsh.herokuapp.com/food)|--------|
+|[heroku app  for food route](https://api-server-mnsh.herokuapp.com/food)|--------|
