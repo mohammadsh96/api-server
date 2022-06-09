@@ -1,5 +1,6 @@
 # api-server
 
+UML diagram [UML](./src/UML-diagram.png)
 
 |--------------|-------------|
 | [pull request ](https://github.com/mohammadsh96/api-server/pull/1)|----------------|
